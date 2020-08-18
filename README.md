@@ -1,1 +1,1 @@
-# automatic-enzo-waffle This is my first time in github. I am a newbie. I want a playground to practice HTML and CSS.
+# automatic-enzo-waffle I am not Wordpress, I'm not even a waffle. However, I love eating waffles with maple syrup. I'm looking for PLAYground planet where I can swirl up some HTML and CSS.
